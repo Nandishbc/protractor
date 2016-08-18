@@ -36,7 +36,7 @@ To install and start the standalone Selenium Server manually, use the webdriver-
 3. Leave the server running while you conduct your test sessions.
 
 4. In your config file, set `seleniumAddress` to the address of the running server. This defaults to
-   `http://localhost:4444/wd/hub`.
+   `http://localhost:4444/wd/hub`
 
 
 **Starting the Server from a Test Script**
